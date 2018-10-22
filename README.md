@@ -1,1 +1,1 @@
-# Introduction_to_Machine_Learning_with_Python
+# Introduction to Machine Learning with Python
